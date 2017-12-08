@@ -3,9 +3,10 @@
 ### Part I - Questions
 
 1. Describe the MVC pattern.
-2. In the MVC pattern, does the model communicate directly with the view?
-2. What is the purpose of blueprints?
-3. How does using blueprints help us organize bigger applications?
+a design pattern for building large web apps. model-managing data storage, retrieval and validation. view- user sees and we want it simple. Controller- the 'brains', talks to models and updates view.
+2. In the MVC pattern, does the model communicate directly with the view? no the controller has to.
+2. What is the purpose of blueprints? its for structure and organization of large crud apps. 
+3. How does using blueprints help us organize bigger applications? through folders and files.
 
 ### Part II - Exercise
 
